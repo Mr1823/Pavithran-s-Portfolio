@@ -4,8 +4,6 @@ An interactive 3D developer portfolio with a Spline-powered keyboard where every
 
 **Live:** _not deployed yet_ · **By:** [Pavithran S](https://www.linkedin.com/in/paviofficial) — Full Stack & Android Developer, Founder of [BuildWithUs](https://buildwithus.co.in)
 
-> Built on the [3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) template by [Naresh Khatri](https://github.com/Naresh-Khatri) (MIT). Content, projects and data layer are my own — see [Credits](#-credits).
-
 ---
 
 ## ✨ Features
@@ -150,13 +148,5 @@ Deployed on Vercel. Before your first deploy:
 4. **Set `config.site`** to your real domain — canonical URLs, Open Graph tags, `sitemap.xml` and `robots.txt` all derive from it.
 
 ---
-
-## 📄 Credits
-
-This portfolio is built on the [3d-portfolio](https://github.com/Naresh-Khatri/3d-portfolio) template by **Naresh Khatri**, released under the MIT License. The Spline keyboard scene, animation choreography and component architecture are his work.
-
 All content — projects, copy, skills, experience and the data layer — is mine.
 
-## 📄 License
-
-MIT, inherited from the original template. See [LICENSE](LICENSE).
